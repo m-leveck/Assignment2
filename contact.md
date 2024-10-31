@@ -1,1 +1,3 @@
-Contact information here
+## Contact information here
+
+leve1533@mylaurier.ca
